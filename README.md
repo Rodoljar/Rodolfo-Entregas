@@ -1,6 +1,6 @@
-#  - SpeedFast-semana 4
+#  - SpeedFast-semana 4_Ejecutando tareas en paralelo con hilos en Java
 
-Proyecto desarrollado en **Java** para la simulación de procesamiento concurrente de entregas y pedidos de última milla. El sistema implementa programación orientada a objetos avanzada, jerarquías de clases, interfaces, polimorfismo y concurrencia mediante `ExecutorService`.
+Proyecto desarrollado en **Java** para la simulación de procesamiento concurrente de entregas y pedidos. El sistema implementa programación orientada a objetos avanzada, jerarquías de clases, interfaces, polimorfismo y concurrencia mediante `ExecutorService`.
 
 ---
 
