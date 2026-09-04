@@ -1,4 +1,4 @@
-#  Sistema de Simulación Concurrente - SpeedFast
+#  - SpeedFast-semana 4
 
 Proyecto desarrollado en **Java** para la simulación de procesamiento concurrente de entregas y pedidos de última milla. El sistema implementa programación orientada a objetos avanzada, jerarquías de clases, interfaces, polimorfismo y concurrencia mediante `ExecutorService`.
 
